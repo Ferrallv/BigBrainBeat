@@ -10,4 +10,7 @@ recorded samples! Just be sure they are in `.wav` format.
 If you are unfamiliar with recording, I recommend https://www.audacityteam.org/
 as an excellent open-source starting point.
 
-Please feel free to contact me with any comments, questions, or ideas!
+All of the `.wav` files I used for this project can be found here:
+https://drive.google.com/drive/folders/18fEIHUkHM4DmqIjWJiTrqlefFjY0GWpJ?usp=sharing
+
+Please feel free to contact me with any comments,critiques, questions, or ideas!
