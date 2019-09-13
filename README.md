@@ -2,7 +2,7 @@
 ---
 Thank you so much for checking out my project! If you wish to try this at home,
 you only need to run the `BigBrainBeat_Presentation.ipynb` with the other files
-in the same directory (not including the other .ipynb). To change the track,
+in the same directory (not including the other `.ipynb`). To change the track,
 simply edit the trackpath in the `show_me` function. I encourage you to try your own
 recorded samples! Just be sure they are in `.wav` format.
 
