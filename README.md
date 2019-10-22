@@ -14,4 +14,4 @@ https://drive.google.com/drive/folders/18fEIHUkHM4DmqIjWJiTrqlefFjY0GWpJ?usp=sha
 
 A walkthrough explanation can be found here: https://ferrallv.github.io/site/project/BigBrainBeat-post/
 
-Please feel free to contact me with any comments,critiques, questions, or ideas!
+Please feel free to contact me with any comments, critiques, questions, or ideas!
