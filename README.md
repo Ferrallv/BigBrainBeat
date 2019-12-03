@@ -11,10 +11,11 @@ ipd.Audio(data = (downsampled_wav1, beat_pred1), rate =11025)
 
 Our predicted bpm is:90
 ```
+![Downsampled .wav](/images/DownsampledWavWithInferredBeats90BPM.png)
 
+![Visualized .wav](/images/VisualizationOfAudioSlice90BPM.png)
 
-
-
+Followed by an audio player that will play the .wav in the left speaker and the inferred beats in the right speaker.
 
 Thank you so much for checking out my project! If you wish to try this at home,
 you only need to run the `BigBrainBeat_Presentation.ipynb` with the other files
